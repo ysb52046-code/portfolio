@@ -1,0 +1,10 @@
+body{background-color: blue;}
+button{
+height: 200px;
+width: 250px;
+border-radius: 25px;
+background-color: greenyellow;
+color: brown;
+margin: 30px;
+border: 2px solid white;
+transition: 0.2s;}
